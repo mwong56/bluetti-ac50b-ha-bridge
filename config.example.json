@@ -1,0 +1,5 @@
+{
+  "ha_url": "http://homeassistant.local:8123",
+  "bluetooth_address": "AA:BB:CC:DD:EE:FF",
+  "token_file": "ha-token.txt"
+}

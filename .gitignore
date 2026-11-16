@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+config.json
+ha-token.txt
+.env
+*.log
+*.log.*
+*.lock
+energy-totals.json
+energy-totals.tmp

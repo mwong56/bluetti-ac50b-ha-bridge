@@ -1,0 +1,2 @@
+bluetti-bt-lib==0.1.8
+aiohttp==3.14.5
